@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uni-ds-hanoi/static/css/main.b6a32153.css",
+    "main.js": "/uni-ds-hanoi/static/js/main.f4c65955.js",
+    "index.html": "/uni-ds-hanoi/index.html",
+    "main.b6a32153.css.map": "/uni-ds-hanoi/static/css/main.b6a32153.css.map",
+    "main.f4c65955.js.map": "/uni-ds-hanoi/static/js/main.f4c65955.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6a32153.css",
+    "static/js/main.f4c65955.js"
+  ]
+}
